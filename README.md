@@ -1,10 +1,10 @@
 # PS2ArtworkDownloader
 A script to help download:
 
-#Playstation 2 game covers
-#Playstation 2 game disc art
-#Playstation 2 game screenshots 
-#Playstation 2 game background shots 
+* Playstation 2 game covers
+* Playstation 2 game disc art
+* Playstation 2 game screenshots 
+* Playstation 2 game background shots 
 
 for use with Open Playstation 2 Loader. With this, you'll be able to make a full collection of PS2 covers and have them show up on the OpenPS2 Loader menu.
 
