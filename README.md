@@ -5,5 +5,5 @@ Batch downloads Playstation 2 game artwork, covers, disc art, screenshots and ba
 
 1. Simply install the .js file as a tampermonkey script for Chrome or Firefox.
 2. Ensure tampermonkey settings > Downloads > Download Mode says "Browser API".
-3. Visit http://oplmanager.no-ip.info/site/?gamelist&l=A - Artwork for all the games listed on the page will begin downloading 4. after a few seconds.
-5. Visit the other pages to download the rest of the Artwork.
+3. Visit http://oplmanager.no-ip.info/site/?gamelist&l=A - Artwork for all the games listed on the page will begin downloading after a few seconds. (Use the browser console for a progress report)
+4. Visit the other pages to download the rest of the Artwork.
