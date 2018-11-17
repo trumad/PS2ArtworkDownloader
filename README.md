@@ -6,7 +6,7 @@ A script to help download:
 * Playstation 2 game screenshots 
 * Playstation 2 game background shots 
 
-for use with Open Playstation 2 Loader. With this, you'll be able to make a full collection of PS2 covers and have them show up on the OpenPS2 Loader menu.
+The image filenames are compatible with Open Playstation 2 Loader. With this, you'll be able to make a full collection of PS2 covers and have them show up on the OpenPS2 Loader menu.
 
 # Guide
 
