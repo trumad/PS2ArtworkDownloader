@@ -13,7 +13,7 @@ The image filenames are compatible with Open Playstation 2 Loader. With this, yo
 1. Install Tampermonkey extension in Chrome or Firefox
 2. Install the .js file from this repository as a tampermonkey script
 3. Ensure tampermonkey settings > Downloads > Download Mode says "Browser API".
-4. Visit http://oplmanager.no-ip.info/site/?gamelist.
+4. Visit http://oplmanager.no-ip.info/site/gamelist.
 5. Follow the instructions on the page
 
 # Note
