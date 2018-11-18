@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.6
 // @description  Batch downloads Playstation 2 game artwork, covers, disc art, screenshots and background shots for use with Open Playstation 2 Loader
-// @include     http://oplmanager.no-ip.info/site/?gamelist*
-// @include     https://oplmanager.no-ip.info/site/?gamelist*
+// @include     http://oplmanager.no-ip.info/site/gamelist*
+// @include     https://oplmanager.no-ip.info/site/gamelist*
 // @connect oplmanager.no-ip.info
 // @author       Than
 // @grant       GM.xmlHttpRequest
